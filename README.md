@@ -107,7 +107,7 @@ Player 1 (X), enter your move (available space): 5
 
   X | O | 3
  ---+---+---
-  4 | X | 6
+  O | X | 6
  ---+---+---
   7 | 8 | X
 
