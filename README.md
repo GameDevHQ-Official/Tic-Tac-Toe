@@ -109,7 +109,7 @@ Player 1 (X), enter your move (available space): 5
  ---+---+---
   4 | X | 6
  ---+---+---
-  X | 8 | 9
+  7 | 8 | X
 
 Player 1 (X) wins!
 ```
